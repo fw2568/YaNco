@@ -3,7 +3,8 @@
 
 Stable                     |  Latest                   |
 ---------------------------|---------------------------|
-[![NuGet stable](https://img.shields.io/nuget/v/Dbosoft.YaNco.svg?style=flat-square)](https://www.nuget.org/packages/Dbosoft.YaNco) | [![NuGet pre](https://img.shields.io/nuget/vpre/Dbosoft.YaNco.svg?style=flat-square)](https://www.nuget.org/packages/Dbosoft.YaNco)
+[![NuGet stable](https://img.shields.io/nuget/v/Dbosoft.YaNco.svg?style=flat-square)](https://www.nuget.org/packages/Dbosoft.YaNco) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffw2568%2FYaNco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffw2568%2FYaNco?ref=badge_shield)
+| [![NuGet pre](https://img.shields.io/nuget/vpre/Dbosoft.YaNco.svg?style=flat-square)](https://www.nuget.org/packages/Dbosoft.YaNco)
 
 ## Description
 
@@ -227,6 +228,9 @@ They includes:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffw2568%2FYaNco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffw2568%2FYaNco?ref=badge_large)
 
 ## Trademark notice
 
